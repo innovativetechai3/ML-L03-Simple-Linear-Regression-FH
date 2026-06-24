@@ -20,4 +20,4 @@ Dataset      : SalaryFHL3.csv (Kaggle)
 - regression_plot.png
 
 ## Output
-Model predicts Salary based on Years. 
+Output Model predicts salary based on years of experience. 
