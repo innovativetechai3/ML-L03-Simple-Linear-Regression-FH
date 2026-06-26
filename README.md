@@ -16,7 +16,6 @@ ML Pipeline:
 - Model evaluation (R² score)
 
 Files
-- main.py
 - SalaryFHL3.csv
 - regression_plot.png
 
