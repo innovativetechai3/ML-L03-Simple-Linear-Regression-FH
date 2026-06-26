@@ -13,10 +13,11 @@ Dataset      : SalaryFHL3.csv (Kaggle)
 - Model evaluation (R² score)
 
 ## Files
+- MLAssgn1aFH.py
 - SalaryFHL3.csv
+- README.md
 - regression_plot.png
-
-
-
+- MLAss1(a)OutputFH.png
+  
 ## Output
 Model predicts salary based on years of experience.
